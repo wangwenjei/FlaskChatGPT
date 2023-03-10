@@ -1,0 +1,12 @@
+Flask==2.2.3
+openai==0.27.1
+tenacity==8.2.2
+pycrypto==2.6.1
+
+
+//pip install h5py==2.10.0 -i http://pypi.douban.com/simple/ --trusted-host  pypi.douban.com
+
+
+//Crypto==1.4.1
+
+
